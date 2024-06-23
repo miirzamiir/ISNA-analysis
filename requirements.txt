@@ -1,0 +1,7 @@
+khayyam
+beautifulsoup4
+hazm
+yake
+pandas
+nltk
+codecs
